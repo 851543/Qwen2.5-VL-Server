@@ -1,0 +1,80 @@
+{
+  "environmental_params": {
+    "temperature": [
+      "15-25°C",
+      "适宜温度促进小白菜的生长"
+    ]
+  },
+  "planting_suggestions": [
+    {
+      "type": "water_management",
+      "content": "保持土壤湿润但不积水"
+    }
+  ],
+  "core_indicators": {
+    "growth_rate": 80,
+    "disease_resistance": 70,
+    "fertilizer_conversion": 65,
+    "market_acceptance": 90
+  },
+  "comprehensive_assessment": {
+    "growth_assessment": "小白菜生长速度较快，适应性强。",
+    "cultivation_difficulty": "种植难度中等，管理得当即可获得高产。",
+    "general_recommendations": "建议在肥沃疏松的土壤中种植，注意光照和水分管理。",
+    "market_analysis": "市场需求稳定，具有较高的市场认可度。"
+  }
+}
+{
+  "environmental_params": {
+    "water_temperature": [
+      "15℃-30℃",
+      "水温影响草鱼的生长速度和生存。最佳生长温度在20℃-28℃之间，高温会导致应激反应，低温则会减缓生长。"
+    ],
+    "ph": [
+      "6.5-8.5",
+      "草鱼对pH值的适应范围较广，但最适pH为7.0-7.5。过高或过低的pH会影响其健康和摄食。"
+    ],
+    "dissolved_oxygen": [
+      ">=5mg/L",
+      "溶解氧必须维持在较高水平以确保草鱼正常呼吸和代谢。理想值为5-8 mg/L。"
+    ],
+    "ammonia_nitrogen": [
+      "<0.2mg/L",
+      "氨氮浓度过高会导致水体污染，影响草鱼的健康。应保持在安全范围内。"
+    ],
+    "nitrite": [
+      "<0.1mg/L",
+      "亚硝酸盐浓度高会损害草鱼的鳃和肝脏功能，需严格控制。"
+    ]
+  },
+  "breeding_suggestions": [
+    {
+      "type": "water_quality_management",
+      "content": "定期检测水质参数，保持水体清洁，适当换水以维持良好的水质环境。"
+    },
+    {
+      "type": "feeding_management",
+      "content": "投喂新鲜、营养均衡的饲料，定时定量，避免过量投喂导致水质恶化。"
+    },
+    {
+      "type": "disease_prevention",
+      "content": "定期检查鱼体健康状况，及时处理异常情况，使用合适的渔药进行预防和治疗。"
+    },
+    {
+      "type": "environment_monitoring",
+      "content": "安装水质监控设备，实时监测水温、溶解氧等关键参数，确保养殖环境稳定。"
+    }
+  ],
+  "core_indicators": {
+    "growth_rate": 85,
+    "disease_resistance": 70,
+    "feed_conversion": 120,
+    "market_acceptance": 95
+  },
+  "comprehensive_assessment": {
+    "growth_assessment": "草鱼的生长速度较快，但其在高温或低温条件下生长会有所减缓。",
+    "breeding_difficulty": "中等难度，主要涉及水质管理、饲料投喂和疾病预防等日常维护工作。",
+    "general_recommendations": "建议保持稳定的水质环境，合理投喂，并加强疾病防控措施以提高养殖效益。",
+    "market_analysis": "市场对草鱼的需求稳定，价格适中，具有较好的经济效益。"
+  }
+}
