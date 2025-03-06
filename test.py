@@ -147,5 +147,5 @@ plant_result = get_ai_analysis_params("小白菜", "plant")
 print("种植分析结果:", plant_result["message"]["content"])
 
 # 养殖示例
-fish_result = get_ai_analysis_params("草鱼", "fish")
+fish_result = get_ai_analysis_params("淡水鱼草鱼", "fish")
 print("养殖分析结果:", fish_result["message"]["content"])
