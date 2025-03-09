@@ -22,6 +22,7 @@ from template import get_template
 import re
 
 
+# 病虫害识别
 @app.post("/identify")
 async def identify(prompt_text: str = Form(), prompt_image: Optional[UploadFile] = File(None)):
     # 处理图片
@@ -66,6 +67,7 @@ async def identify(prompt_text: str = Form(), prompt_image: Optional[UploadFile]
         image_buffer.close()
 
 
+# 聊天
 @app.post("/chat")
 async def chat(prompt_text: str = Form(), prompt_image: Optional[UploadFile] = File(None)):
     image_buffer = None
